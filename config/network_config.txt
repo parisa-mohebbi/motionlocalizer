@@ -2,5 +2,5 @@
  "event_url": "http://13.57.9.104:8001/send-event/",
  "config_url":  "http://13.57.9.104:8001/get-config/",
  "config_db_url": "http://13.57.9.104:8000/get-config/",
- "init_mode": 0
+ "init_mode": 1
 }
