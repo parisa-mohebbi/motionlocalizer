@@ -1,6 +1,6 @@
 {
- "event_url": "http://54.183.167.46:8001/send-event/",
- "config_url":  "http://54.183.167.46:8001/get-config/",
- "config_db_url": "http://54.183.167.46:8000/get-config/",
+ "event_url": "http://127.0.0.1:8001/send-event/",
+ "config_url":  "http://127.0.0.1:8001/get-config/",
+ "config_db_url": "http://127.0.0.1:8000/get-config/",
  "init_mode": 1
 }
